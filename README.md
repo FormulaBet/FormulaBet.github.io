@@ -1,6 +1,6 @@
 # WebSite
 
-WebSite destinado ao sprint do challenge da Mahindra na FIAP Paulista, em 2024 <br> <br>
+WebSite destinado ao sprint do challenge da Mahindra na FIAP Paulista, em 2024  - 1° Semestre<br> <br>
 Integrantes:
 
 Leonardo de Farias Silva - RM: 555211. <br>
